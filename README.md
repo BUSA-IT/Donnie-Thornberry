@@ -1,8 +1,6 @@
 # **Donnie Thornberry Troll Bot**
 
-Created this bot to troll my friends in discord. Bot joins the channel and Donnie Thornberry speaks over the designated target when they try to speak. I'll probably fiddle with this and clean it up over the next few days.
-
-**Important note:** This bot was in no way intended to be mass used. Also this code is sloppy in it's current state and if you use this enough I'm sure it is littered with bugs in edge cases that I did not bother testing because again, I can not stress enough, that this was a project that I did in a hurry as a joke for tik tok. I also added all the message command code after the fact to make it slightly more user friendly, it was all just hardcoded with user id's for my friends prior to adding this code.
+The bot joins the voice channel and mimics Donnie Thornberry, interrupting the designated target whenever they try to speak. I'll likely tinker with it and polish things up in the next few days.
 
 Feel free to fork the bot and extend it in anyway you can think of also I'm open to PR's if you are interested in that.
 # Usage Instructions
