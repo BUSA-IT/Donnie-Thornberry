@@ -1,4 +1,4 @@
-# **Donnie Thornberry Troll Bot**
+# **Donnie Bot**
 
 The bot joins the voice channel and mimics Donnie Thornberry, interrupting the designated target whenever they try to speak. I'll likely tinker with it and polish things up in the next few days.
 
